@@ -1,4 +1,4 @@
-# OPS Diet Dairy
+# OPS Diet Diary
 
 Este é um App mobile android para registrar sua rotina de alimentação
 
