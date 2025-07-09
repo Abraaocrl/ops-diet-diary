@@ -1,5 +1,6 @@
 import Cabecalho from "@/components/Cabecalho";
 import { View } from "react-native";
+import Registrar from "./registrar";
 
 export default function Index() {
   return (
@@ -11,6 +12,7 @@ export default function Index() {
       }}
     >
       <Cabecalho/>
+      <Registrar/>
     </View>
   );
 }
